@@ -1,0 +1,30 @@
+# Gradle
+.gradle/
+build/
+run/
+out/
+logs/
+*.log
+
+# 本地文件（森罗物语酒馆的jar）
+libs/*.jar
+!libs/.gitkeep
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+.classpath
+.project
+.settings/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.bak
+*.cache

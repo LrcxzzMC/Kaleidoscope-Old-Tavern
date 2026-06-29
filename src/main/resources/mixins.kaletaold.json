@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.github.lrcxzzmc.kaletaold.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "kaletaold.refmap.json",
+  "mixins": [
+    "MixinBarrelBlockEntity"
+  ],
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
