@@ -22,7 +22,5 @@ SOFTWARE.
 
 ---
 
-Portions of this project's code are inspired by or adapted from
-Kaleidoscope World Liquor (https://github.com/BmtUltra/Kaleidoscope-World-Liquor),
-which is also licensed under the MIT License.
-Copyright (c) BmtUltra and contributors.
+This project references portions of the source code from
+Kaleidoscope World Liquor (https://github.com/BmtUltra/Kaleidoscope-World-Liquor).
