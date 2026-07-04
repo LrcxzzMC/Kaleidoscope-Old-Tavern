@@ -19,3 +19,10 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+Portions of this project's code are inspired by or adapted from
+Kaleidoscope World Liquor (https://github.com/BmtUltra/Kaleidoscope-World-Liquor),
+which is also licensed under the MIT License.
+Copyright (c) BmtUltra and contributors.
