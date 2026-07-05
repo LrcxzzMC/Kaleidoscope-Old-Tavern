@@ -1,8 +1,4 @@
 {
-  "item.kaletaold.brew_barrel_viewer": "酒桶状态查看器",
-  "item.kaletaold.hops": "啤酒花",
-  "item.kaletaold.hops_compound": "啤酒花风味化合物",
-  "item.kaletaold.beer": "啤酒",
-  "effect.kaletaold.beer": "啤酒",
-  "itemGroup.kaletaold": "森罗物语：老牌酒馆"
+  "mod.kaletaold.title": "森罗物语：老牌酒馆",
+  "item.kaletaold.brew_barrel_viewer": "酒桶状态查看器"
 }
